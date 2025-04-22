@@ -57,7 +57,7 @@ Each feature was dissected to highlight the machine learning components involved
 A CNN model was implemented using Python in Jupyter Notebook to recognize traffic signs in real-time via webcam. Demonstrated signs:
 - 🛑 Stop Sign
 - ➡️ Go Forward and Turn Right
-
+- ⬅️ Go Forward and Turn Left
 ---
 
 ## 📚 Literature Review & Citations
